@@ -1,0 +1,29 @@
+body {
+    background-color: #16493a; /* Màu nền xanh lá cây */
+  }
+  
+  .container {
+    padding-top: 50px; /* Khoảng cách từ phần đầu trang */
+  }
+  
+  .register-form {
+    background-color: #fff; /* Màu nền của biểu mẫu là màu trắng */
+    border-radius: 20px; /* Bo tròn các góc */
+    padding: 30px; /* Khoảng cách giữa biên và nội dung bên trong */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Hiệu ứng bóng đổ */
+  }
+  
+  .form-label {
+    color: #fff; /* Màu chữ trắng */
+  }
+  
+  .btn-primary {
+    background-color: #d00000; /* Màu nền là màu đỏ Giáng sinh */
+    border-color: #d00000;
+  }
+  
+  .btn-primary:hover {
+    background-color: #bf0000; /* Màu nền tối hơn khi di chuột qua */
+    border-color: #bf0000;
+  }
+  
